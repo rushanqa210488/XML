@@ -1,1 +1,16 @@
-
+<bug_reports>
+  <Bug_id>1</Bug_id>
+  <Priority>Higth</Priority>
+  <Severity>Critical</Severity>
+  <Summary>Total price does not reflected git to the product quantity</Summary>
+  <Steps_to_reproduce>
+    <steps>1. Go to any Category</steps>
+    <steps>2. Add any item to the Cart</steps>
+    <steps>3. Go to the Cart</steps>
+    <steps>4. Change quantity of the product</steps>
+    <steps>5. Go to the Payment page</steps>
+    <steps>6. Observe the total price</steps>
+  </Steps_to_reproduce>
+  <Expected result>Total price should reflect to the quantity to the product</Expected result>
+  <Actual result>Total price display as for only 1 item</Actual result>
+</bug_reports>
