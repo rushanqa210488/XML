@@ -1,30 +1,30 @@
 
 <all_skills>
-	<skills>Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.<skills/>
-	<skills>What is a client-server architecture<skills/>
-	<skills>HTTP Methods of requests to the server<skills/>
-	<skills>HTTP server response codes<skills/>
-	<skills>Structures of HTTP requests and responses<skills/>
-	<skills>What is JSON, XML. Their structure<skills/>
-	<skills>API testing via Postman, JS, API autotests<skills/>
-	<skills>Removing and reading logs from an external server<skills/>
-	<skills>Sniffing http web traffic via Charles and Fiddler<skills/>
-	<skills>Dev Tools of web browsers Google Chrome, FireFox<skills/>
-	<skills>VPN. How it works, why you need it, how to use it, tool options<skills/>
-	<skills>Mobile testing<skills/>
-	<skills>Feature iOS, Android, guidelines<skills/>
-	<skills>Building iOS applications on XCode. Those who do not have a Mac computer, just look<skills/>
-	<skills>Building Android applications on Android Studio<skills/>
-	<skills>ADB android device management<skills/>
-	<skills>Setting up proxy and vpn on iOS and Android<skills/>
-	<skills>Interception sniffing of mobile traffic via Charles and Fiddler on iOS and Android<skills/>
-	<skills>Command line terminal, Linux copying, creating, viewing, moving files on servers without a graphical interface<skills/>
-	<skills>Basics of bash scripting, automation of routine tasks on the server<skills/>
-	<skills>Access to remote servers<skills/>
-	<skills>SQL basics Create, Delete, Drop, Insert Into, Select, From, Where, Join<skills/>
-	<skills>Postgres database installation, configuration and use<skills/>
-	<skills>Non-relational database Redis installation, configuration and use<skills/>
-	<skills>Load testing in Jmeter<skills/>
-	<skills>Scrum development methodology<skills/>
-	<skills>Python. (Learning the basics. Creating a client-server application<skills/>
-<all_skills/>
+	<skills>Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.</skills>
+	<skills>What is a client-server architecture</skills>
+	<skills>HTTP Methods of requests to the server</skills>
+	<skills>HTTP server response codes</skills>
+	<skills>Structures of HTTP requests and responses</skills>
+	<skills>What is JSON, XML. Their structure</skills>
+	<skills>API testing via Postman, JS, API autotests</skills>
+	<skills>Removing and reading logs from an external server</skills>
+	<skills>Sniffing http web traffic via Charles and Fiddler</skills>
+	<skills>Dev Tools of web browsers Google Chrome, FireFox</skills>
+	<skills>VPN. How it works, why you need it, how to use it, tool options</skills>
+	<skills>Mobile testing</skills>
+	<skills>Feature iOS, Android, guidelines</skills>
+	<skills>Building iOS applications on XCode. Those who do not have a Mac computer, just look</skills>
+	<skills>Building Android applications on Android Studio</skills>
+	<skills>ADB android device management</skills>
+	<skills>Setting up proxy and vpn on iOS and Android</skills>
+	<skills>Interception sniffing of mobile traffic via Charles and Fiddler on iOS and Android</skills>
+	<skills>Command line terminal, Linux copying, creating, viewing, moving files on servers without a graphical interface</skills>
+	<skills>Basics of bash scripting, automation of routine tasks on the server</skills>
+	<skills>Access to remote servers</skills>
+	<skills>SQL basics Create, Delete, Drop, Insert Into, Select, From, Where, Join</skills> 
+	<skills>Postgres database installation, configuration and use</skills>
+		<skills>Non-relational database Redis installation, configuration and use</skills>
+	<skills>Load testing in Jmeter</skills>
+	<skills>Scrum development methodology</skills>
+	<skills>Python. Learning the basics. Creating a client-server application</skills>
+</all_skills>

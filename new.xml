@@ -1,12 +1,9 @@
- 
- <About_myself>
- 	<firstname>Rushan<firstname/>
-	<lastname>Akhmetov<lastname/>
-	<patronymic>Sabitovich<patronymic/>
-	<age>34<age/>
-	<number_of_pets>1<number_of_pets/>
-	<future_desired_salary>600$<future_desared_salary/>
- <About_myself/>
-
-
+<About_myself>
+	<firstName>Rushan</firstName>
+	<lastName>Akhmetov</lastName>
+	<patronymic>Sabitovich</patronymic>
+	<age>34</age>
+	<number_of_pets>1</number_of_pets>
+	<future_desired_salary>600$</future_desared_salary>
+</About_myself>
 
